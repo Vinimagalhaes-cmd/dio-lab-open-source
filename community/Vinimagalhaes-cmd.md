@@ -1,7 +1,5 @@
 # Vinícius Magalhães Silva
 
-## 👋 Sobre mim
-
 Olá! Sou Vinícius Magalhães Silva, profissional com formação em Administração e atualmente estudante de Ciência de Dados, construindo uma trajetória que conecta negócios, tecnologia e análise de dados para apoiar decisões mais estratégicas e orientadas por evidências.
 
 Minha experiência acadêmica e profissional me proporcionou uma visão ampla sobre processos, logística e gestão, despertando um forte interesse pelo universo de Business Intelligence, Analytics e Data Science. Atualmente, estou aprofundando meus conhecimentos em SQL, Power BI, Python e análise de dados por meio de cursos, projetos práticos e desenvolvimento contínuo.
