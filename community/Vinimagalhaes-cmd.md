@@ -40,7 +40,7 @@ Meu objetivo é aplicar conhecimentos técnicos e de negócios para gerar valor 
 ## 🌎 Idiomas
 
 * Português — Nativo
-* Inglês — Avançado (B2/C1)
+* Inglês — Avançado (C1)
 
 ## 🔗 Conecte-se comigo
 
